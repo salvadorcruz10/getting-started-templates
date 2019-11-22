@@ -1,6 +1,6 @@
-# Contributing to From Zero To Hero
+# Contributing to 'Project's name
 
-From Zero To Hero is an open source project
+My project is an open source project...
 
 # Creating a New Solution
 
